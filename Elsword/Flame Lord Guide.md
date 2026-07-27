@@ -12,7 +12,7 @@ title: Flame Lord Guide
 
 ## Clearing
 
-<img src="attachments/Magma.png" width="65">
+![](attachments/Magma.png)
 
 ERP queen. Trait for Megabuster: choose **Gigantic**. One Megabuster = POOF.
 
@@ -21,7 +21,7 @@ ERP queen. Trait for Megabuster: choose **Gigantic**. One Megabuster = POOF.
 ## Mana & Cooldowns
 
 - **35%+ CDR** (unless running Blue Exa; normally Red Exa)
-- <img src="attachments/FL.png" width="41"> Has <img src="attachments/Pasted image 20260723214348.png" width="46"> — recovers **5 MP/sec**
+- ![](attachments/FL.png) Has ![](attachments/Pasted image 20260723214348.png) — recovers **5 MP/sec**
 - Skill MP cost: at least **15%**, ideally **30%+** for smooth gameplay
 
 ---
@@ -36,7 +36,7 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 ![](attachments/Pasted image 20260723205849.png)
 
 > BQ > FL ≈ AD >> ES
-> *Times don't directly equal DPS ranking — too many variables (weekly rotation, <img src="attachments/Pasted image 20260723220308.png" width="65"> usage, etc.)*
+> *Times don't directly equal DPS ranking — too many variables (weekly rotation, ![](attachments/Pasted image 20260723220308.png) usage, etc.)*
 
 ### Weaknesses
 
@@ -48,7 +48,7 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 ## Build
 
 - There's a complete build of me but below is the overview of my gear. This is the cobodex calculator JSON — just copy-paste the whole thing and you can see my complete gear: [Character Build](Character Build.md).
-- I'm currently using Red Exa <img src="attachments/Pasted image 20260724090959.png" width="44"> so I'm only focusing on Exa.
+- I'm currently using Red Exa ![](attachments/Pasted image 20260724090959.png) so I'm only focusing on Exa.
 - The pants I'm using are ECS, but normally people use Polarize pants.
 
 > ***Make sure your action speed is 120% on your status board. Flame Lord needs action speed for her to cast faster.***
@@ -105,7 +105,7 @@ Fire Stigma — Physical/Magical Defense Reduction: 10%
 - *Damage (Magical): 550%*
 - *Cooldown: 3 sec.*
 
-<img src="attachments/Pasted image 20260727102346.png" width="54">
+![](attachments/Pasted image 20260727102346.png)
 Certain buff durations will increase when you use Special Active skills.
 - *Applied Buff: Red Lotus Sword (Flame Sword), Flame Protection (Flame Shield), Soul Ignition (Soul Ignition)*
 - *Flame Protection, Soul Ignition will be obtained after Transcendence.*
@@ -132,7 +132,7 @@ Certain buff durations will increase when you use Special Active skills.
 - *Recover 100% of damage from burns when HP is lower than 50%*
 - *Duration: 20 sec.*
 
-<img src="attachments/Pasted image 20260727102643.png" width="54">
+![](attachments/Pasted image 20260727102643.png)
 Release the power of fire upon **awakening**.
 Upon awakening, certain buffs will apply immediately for a certain duration.
 Buffs that are already applied will have **increased duration**.
@@ -143,11 +143,11 @@ Buffs that are already applied will have **increased duration**.
 
 ### Skill Set Explanation
 
-<img src="attachments/Pasted image 20260727102346.png" width="54"> <img src="attachments/Pasted image 20260727102643.png" width="54">
+![](attachments/Pasted image 20260727102346.png) ![](attachments/Pasted image 20260727102643.png)
 - These two skills grant you the ability to **extend** buff time — always make sure your buff time is up.
 - If you lose the buff time, just re-awaken and you'll be fine.
 
-> If your buff time disappears you can only awaken to rebuff. <img src="attachments/Pasted image 20260727102346.png" width="38"> doesn't work if you don't have the buff.
+> If your buff time disappears you can only awaken to rebuff. ![](attachments/Pasted image 20260727102346.png) doesn't work if you don't have the buff.
 
 ![](attachments/Pasted image 20260727103901.png) ![](attachments/Pasted image 20260727103942.png)
 - These two skills' cast times are directly affected by **Action Speed**.
@@ -156,7 +156,7 @@ Buffs that are already applied will have **increased duration**.
 ![](attachments/Pasted image 20260727102422.png)
 - This skill gives you 10% Magic Attack Power based on fire resistance.
 - Make sure you have max fire resistance.
-- Because of this skill, for pets I'll use <img src="attachments/Pasted image 20260727104504.png" width="49"> because it gives **50 fire resistance**.
+- Because of this skill, for pets I'll use ![](attachments/Pasted image 20260727104504.png) because it gives **50 fire resistance**.
 
 Select ![](attachments/Pasted image 20260724122713.png) for double traits. ![](attachments/Pasted image 20260727103035.png) — this one select **Light** for trait.
 Any other skill — select **Damage increased to 144%, Cooldown increased to 120%**.
@@ -171,15 +171,15 @@ This is my RAID skill bar:
 
 ### General
 
-![](attachments/Pasted image 20260727110113.png) → ![](attachments/Pasted image 20260727110126.png) → <img src="attachments/Pasted image 20260727110139.png" width="54"> → ![](attachments/Pasted image 20260727110154.png) → <img src="attachments/Pasted image 20260727110215.png" width="54"> → <img src="attachments/Pasted image 20260727110238.png" width="54"> → <img src="attachments/Pasted image 20260727110313.png" width="55">
+![](attachments/Pasted image 20260727110113.png) → ![](attachments/Pasted image 20260727110126.png) → ![](attachments/Pasted image 20260727110139.png) → ![](attachments/Pasted image 20260727110154.png) → ![](attachments/Pasted image 20260727110215.png) → ![](attachments/Pasted image 20260727110238.png) → ![](attachments/Pasted image 20260727110313.png)
 
 - After that, just press anything that's not on cooldown.
 - Flame Lord is a pretty free class when it comes to skill rotation.
 - **In the current patch the most important skill is** ![](attachments/Pasted image 20260727110313.png) **— it can reduce all Annihilation skills by 4 sec.**
-- **You'll always want to use** ![](attachments/Pasted image 20260727110154.png) **whenever it's up, so you need to use** <img src="attachments/Pasted image 20260727110313.png" width="56"> **to reset** ![](attachments/Pasted image 20260727110154.png)
+- **You'll always want to use** ![](attachments/Pasted image 20260727110154.png) **whenever it's up, so you need to use** ![](attachments/Pasted image 20260727110313.png) **to reset** ![](attachments/Pasted image 20260727110154.png)
 
 > I'm not an expert, but after multiple testing I think FL is a fun character to play because every boss skill rotation is different.
-> If you want to be top chart every dungeon, go <img src="attachments/Pasted image 20260727111328.png" width="53">
+> If you want to be top chart every dungeon, go ![](attachments/Pasted image 20260727111328.png)
 
 ### Advanced
 
@@ -191,33 +191,33 @@ After you figure out how to press skills and sort of *feel* her, you'll come to 
 
 **Step 2**
 
-If you have <img src="attachments/Pasted image 20260727125251.png" width="54">, I'd suggest you do it **AFTER** you press ![](attachments/Pasted image 20260727110154.png). So the rotation would be:
+If you have ![](attachments/Pasted image 20260727125251.png), I'd suggest you do it **AFTER** you press ![](attachments/Pasted image 20260727110154.png). So the rotation would be:
 
-<img src="attachments/Pasted image 20260727110154.png" width="54"> → ![](attachments/Pasted image 20260727110313.png) → <img src="attachments/Pasted image 20260727125251.png" width="54"> → <img src="attachments/Pasted image 20260727110215.png" width="54"> / <img src="attachments/Pasted image 20260727110139.png" width="54"> → <img src="attachments/Pasted image 20260727110313.png" width="54"> → <img src="attachments/Pasted image 20260727110154.png" width="54"> → <img src="attachments/Pasted image 20260727110238.png" width="54"> / ![](attachments/Pasted image 20260727110215.png)
+![](attachments/Pasted image 20260727110154.png) → ![](attachments/Pasted image 20260727110313.png) → ![](attachments/Pasted image 20260727125251.png) → ![](attachments/Pasted image 20260727110215.png) / ![](attachments/Pasted image 20260727110139.png) → ![](attachments/Pasted image 20260727110313.png) → ![](attachments/Pasted image 20260727110154.png) → ![](attachments/Pasted image 20260727110238.png) / ![](attachments/Pasted image 20260727110215.png)
 
 **Step 3**
 
-I'm a lazy flow user, but if you want to be the best <img src="attachments/FL.png" width="41"> in the server, you need to time your:
+I'm a lazy flow user, but if you want to be the best ![](attachments/FL.png) in the server, you need to time your:
 - Flow 15 sec reset
 - Artifact Effect
 - Transcendent
-- <img src="attachments/Pasted image 20260727130839.png" width="90">
+- ![](attachments/Pasted image 20260727130839.png)
 
 **Step 4**
 
 You need to have **2** sets of skill rotation when it comes to big and small bosses. I'll use 21-3 and 21-5 as examples.
 
-> *— Always focus on* <img src="attachments/Pasted image 20260727110154.png" width="54"> *regardless of boss size — it's the highest DPS skill she has.*
-> *—* <img src="attachments/Pasted image 20260727110154.png" width="54"> *depends on the boss posture — you can have 2 or 3 hit boxes. I don't know how it works yet, but it seems like when small bossing the skill requires the boss to be in a certain posture to get 3 hit boxes.*
+> *— Always focus on* ![](attachments/Pasted image 20260727110154.png) *regardless of boss size — it's the highest DPS skill she has.*
+> *—* ![](attachments/Pasted image 20260727110154.png) *depends on the boss posture — you can have 2 or 3 hit boxes. I don't know how it works yet, but it seems like when small bossing the skill requires the boss to be in a certain posture to get 3 hit boxes.*
 
 ![](attachments/Pasted image 20260727131239.png)
 
 1. When small bossing, ![](attachments/Pasted image 20260727110215.png) and ![](attachments/Pasted image 20260727131533.png) become bad.
-2. You need to focus on <img src="attachments/Pasted image 20260727110139.png" width="54"> and <img src="attachments/Pasted image 20260727110238.png" width="54">.
-3. I'll replace ![](attachments/Pasted image 20260727131716.png) with ![](attachments/Pasted image 20260727131723.png) because ![](attachments/Pasted image 20260727131716.png) takes forever to do damage whereas <img src="attachments/Pasted image 20260727131723.png" width="54"> is instant damage.
+2. You need to focus on ![](attachments/Pasted image 20260727110139.png) and ![](attachments/Pasted image 20260727110238.png).
+3. I'll replace ![](attachments/Pasted image 20260727131716.png) with ![](attachments/Pasted image 20260727131723.png) because ![](attachments/Pasted image 20260727131716.png) takes forever to do damage whereas ![](attachments/Pasted image 20260727131723.png) is instant damage.
 
 ![](attachments/Pasted image 20260727132149.png)
 
-1. <img src="attachments/Pasted image 20260727110238.png" width="60"> This skill is still good, but when you press it you have to wait for the animation to finish before you can move — whereas <img src="attachments/Pasted image 20260727110215.png" width="54"> is instant cast, so the DPS will be higher when bursting.
-2. When big bossing, <img src="attachments/Pasted image 20260727110215.png" width="54"> and <img src="attachments/Pasted image 20260727131533.png" width="54"> can almost full hit.
-3. Focus on <img src="attachments/Pasted image 20260727110154.png" width="54"> ![](attachments/Pasted image 20260727110215.png) <img src="attachments/Pasted image 20260727131533.png" width="54"> <img src="attachments/Pasted image 20260727110238.png" width="54">
+1. ![](attachments/Pasted image 20260727110238.png) This skill is still good, but when you press it you have to wait for the animation to finish before you can move — whereas ![](attachments/Pasted image 20260727110215.png) is instant cast, so the DPS will be higher when bursting.
+2. When big bossing, ![](attachments/Pasted image 20260727110215.png) and ![](attachments/Pasted image 20260727131533.png) can almost full hit.
+3. Focus on ![](attachments/Pasted image 20260727110154.png) ![](attachments/Pasted image 20260727110215.png) ![](attachments/Pasted image 20260727131533.png) ![](attachments/Pasted image 20260727110238.png)

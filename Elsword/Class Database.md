@@ -5,7 +5,7 @@
 ---
 
 ## Elsword (엘소드)
-<img src="https://elwiki.net/wiki/images/thumb/9/93/Portrait_-_Elsword.png/415px-Portrait_-_Elsword.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/9/93/Portrait_-_Elsword.png/415px-Portrait_-_Elsword.png)
 **Weapon:** Great Sword · **Type:** Physical · **Race:** Human
 
 | Stage | Class | Korean (KR) |
@@ -30,7 +30,7 @@
 ---
 
 ## Aisha (아이샤)
-<img src="https://elwiki.net/wiki/images/thumb/3/32/Portrait_-_Aisha.png/325px-Portrait_-_Aisha.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/3/32/Portrait_-_Aisha.png/325px-Portrait_-_Aisha.png)
 **Weapon:** Staff · **Type:** Magical · **Race:** Human
 
 | Stage | Class | Korean (KR) |
@@ -55,7 +55,7 @@
 ---
 
 ## Rena (레나)
-<img src="https://elwiki.net/wiki/images/thumb/5/56/Portrait_-_Rena.png/340px-Portrait_-_Rena.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/5/56/Portrait_-_Rena.png/340px-Portrait_-_Rena.png)
 **Weapon:** Bow · **Type:** Magical · **Race:** Elf
 
 | Stage | Class | Korean (KR) |
@@ -80,7 +80,7 @@
 ---
 
 ## Raven (레이븐)
-<img src="https://elwiki.net/wiki/images/thumb/7/7c/Portrait_-_Raven.png/300px-Portrait_-_Raven.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/7/7c/Portrait_-_Raven.png/300px-Portrait_-_Raven.png)
 **Weapon:** Nasod Arm + Blade · **Type:** Physical · **Race:** Half-Nasod
 
 | Stage | Class | Korean (KR) |
@@ -105,7 +105,7 @@
 ---
 
 ## Eve (이브)
-<img src="https://elwiki.net/wiki/images/thumb/6/69/Portrait_-_Eve.png/375px-Portrait_-_Eve.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/6/69/Portrait_-_Eve.png/375px-Portrait_-_Eve.png)
 **Weapon:** Nasod Drones · **Type:** Magical · **Race:** Nasod
 
 | Stage | Class | Korean (KR) |
@@ -130,7 +130,7 @@
 ---
 
 ## Elesis (엘리시스) ⭐
-<img src="https://elwiki.net/wiki/images/thumb/d/d0/Portrait_-_Elesis.png/340px-Portrait_-_Elesis.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/d/d0/Portrait_-_Elesis.png/340px-Portrait_-_Elesis.png)
 **Weapon:** Claymore · **Type:** Physical · **Race:** Human · **PO's Main**
 
 | Stage | Class | Korean (KR) |
@@ -155,7 +155,7 @@
 ---
 
 ## Chung (청)
-<img src="https://elwiki.net/wiki/images/thumb/5/50/Portrait_-_Chung.png/415px-Portrait_-_Chung.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/5/50/Portrait_-_Chung.png/415px-Portrait_-_Chung.png)
 **Weapon:** Destroyer (Cannon) · **Type:** Physical/Magical
 
 | Stage | Class | Korean (KR) |
@@ -180,7 +180,7 @@
 ---
 
 ## Ara (아라)
-<img src="https://elwiki.net/wiki/images/thumb/4/44/Portrait_-_Ara.png/285px-Portrait_-_Ara.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/4/44/Portrait_-_Ara.png/285px-Portrait_-_Ara.png)
 **Weapon:** Spear · **Type:** Physical · **Race:** Human (Nine-Tailed Fox)
 
 | Stage | Class | Korean (KR) |
@@ -205,7 +205,7 @@
 ---
 
 ## Add (애드)
-<img src="https://elwiki.net/wiki/images/thumb/b/b3/Portrait_-_Add.png/350px-Portrait_-_Add.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/b/b3/Portrait_-_Add.png/350px-Portrait_-_Add.png)
 **Weapon:** Nasod Dynamo · **Type:** Magical
 
 | Stage | Class | Korean (KR) |
@@ -230,7 +230,7 @@
 ---
 
 ## Lu/Ciel (루/시엘)
-<img src="https://elwiki.net/wiki/images/thumb/5/5e/Portrait_-_LuCiel.png/415px-Portrait_-_LuCiel.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/5/5e/Portrait_-_LuCiel.png/415px-Portrait_-_LuCiel.png)
 **Weapon:** Demon Gauntlets + Gunblades · **Type:** Physical (Lu) / Magical (Ciel)
 
 | Stage | Class | Korean (KR) |
@@ -255,7 +255,7 @@
 ---
 
 ## Rose (로제)
-<img src="https://elwiki.net/wiki/images/thumb/0/09/Portrait_-_Rose.png/270px-Portrait_-_Rose.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/0/09/Portrait_-_Rose.png/270px-Portrait_-_Rose.png)
 **Weapon:** Guns + Heavy Weaponry · **Type:** Physical · **Race:** Human
 
 | Stage | Class | Korean (KR) |
@@ -280,7 +280,7 @@
 ---
 
 ## Ain (아인)
-<img src="https://elwiki.net/wiki/images/thumb/d/d3/Portrait_-_Ain_NoFX.png/380px-Portrait_-_Ain_NoFX.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/d/d3/Portrait_-_Ain_NoFX.png/380px-Portrait_-_Ain_NoFX.png)
 **Weapon:** Pendulum + Projection Weapons · **Type:** Magical · **Race:** Angel
 
 | Stage | Class                | Korean (KR) |
@@ -305,7 +305,7 @@
 ---
 
 ## Noah (노아)
-<img src="https://elwiki.net/wiki/images/thumb/3/3e/Portrait_-_Noah.png/280px-Portrait_-_Noah.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/3/3e/Portrait_-_Noah.png/280px-Portrait_-_Noah.png)
 **Weapon:** Sickle · **Type:** Physical · **Race:** Half-El
 
 | Stage | Class | Korean (KR) |
@@ -330,7 +330,7 @@
 ---
 
 ## Laby (라비)
-<img src="https://elwiki.net/wiki/images/thumb/0/01/Portrait_-_Laby.png/265px-Portrait_-_Laby.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/0/01/Portrait_-_Laby.png/265px-Portrait_-_Laby.png)
 **Weapon:** Mirror (Nisha) · **Type:** Physical · **Race:** Unknown
 
 | Stage | Class | Korean (KR) |
@@ -355,7 +355,7 @@
 ---
 
 ## Lithia (리티아)
-<img src="https://elwiki.net/wiki/images/thumb/e/e8/Portrait_-_Lithia.png/280px-Portrait_-_Lithia.png" width="200">
+![](https://elwiki.net/wiki/images/thumb/e/e8/Portrait_-_Lithia.png/280px-Portrait_-_Lithia.png)
 **Weapon:** Pickaxe + Gemstones · **Type:** Physical · **Race:** Human
 
 | Stage | Class | Korean (KR) |
