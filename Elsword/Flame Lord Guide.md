@@ -44,7 +44,7 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 
 ## Build
 
-- There's a complete build of me but below is the overview of my gear. This is the cobodex calculator JSON — just copy-paste the whole thing and you can see my complete gear: [Character Build](Character Build.md).
+- There's a complete build of me but below is the overview of my gear. This is the cobodex calculator JSON — just copy-paste the whole thing and you can see my complete gear: https://github.com/Hemirich/elsword-guides/blob/main/Elsword/Character%20Build.md.
 - I'm currently using Red Exa ![](attachments/Pasted%20image%2020260724090959.png) so I'm only focusing on Exa.
 - The pants I'm using are ECS, but normally people use Polarize pants.
 
