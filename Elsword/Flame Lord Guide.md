@@ -182,17 +182,17 @@ This is my RAID skill bar:
 
 You are here to advance your FL class. I'll show you everything I know to make you understand how Lee Dong-shin ignores my character. I could literally fix her with my toe.
 
-**Step 1**
+![](https://img.shields.io/badge/1-FF4500?style=for-the-badge) **Step 1**
 
 After you figure out how to press skills and sort of *feel* her, you'll come to a point where sometimes you'll grey bar for 1~2 seconds. So you actually need onions to awaken — to trigger the artifact yellow effect (reduce all skill cooldown by 10%) or use the Setting Sun title.
 
-**Step 2**
+![](https://img.shields.io/badge/2-FF4500?style=for-the-badge) **Step 2**
 
 If you have ![](attachments/Pasted%20image%2020260727125251.png), I'd suggest you do it **AFTER** you press ![](attachments/Pasted%20image%2020260727110154.png). So the rotation would be:
 
 ![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727125251.png) → ![](attachments/Pasted%20image%2020260727110215.png) / ![](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110238.png) / ![](attachments/Pasted%20image%2020260727110215.png)
 
-**Step 3**
+![](https://img.shields.io/badge/3-FF4500?style=for-the-badge) **Step 3**
 
 I'm a lazy flow user, but if you want to be the best ![](attachments/FL.png) in the server, you need to time your:
 - Flow 15 sec reset
@@ -200,7 +200,7 @@ I'm a lazy flow user, but if you want to be the best ![](attachments/FL.png) in 
 - Transcendent
 - ![](attachments/Pasted%20image%2020260727130839.png)
 
-**Step 4**
+![](https://img.shields.io/badge/4-FF4500?style=for-the-badge) **Step 4**
 
 You need to have **2** sets of skill rotation when it comes to big and small bosses. I'll use 21-3 and 21-5 as examples.
 
