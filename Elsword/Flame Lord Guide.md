@@ -59,6 +59,8 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 ![](attachments/Pasted%20image%2020260724091255.png)
 ![](attachments/Pasted%20image%2020260724091441.png)
 
+![](attachments/Critical%20Resistance%20Table.webp)
+
 ---
 
 ## ERP
