@@ -1,3 +1,5 @@
 title: Elsword Guides
-description: Character guides — builds, rotations, gear setups
-theme: jekyll-theme-minimal
+description: Elsword character guides
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
