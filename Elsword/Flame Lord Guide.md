@@ -50,7 +50,8 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 
 > ***Make sure your action speed is 120% on your status board. Flame Lord needs action speed for her to cast faster.***
 > ***Make sure your fire resistance is 500 because one of her passives requires full fire resistance.***
-
+> ***The red number is critical, blue is maximize***
+![](attachments/Critical-Resistance-Table.webp)
 ![](attachments/Pasted%20image%2020260724092646.png)
 ![](attachments/Pasted%20image%2020260724092754.png)
 ![](attachments/Pasted%20image%2020260724091156.png)
@@ -59,7 +60,7 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 ![](attachments/Pasted%20image%2020260724091255.png)
 ![](attachments/Pasted%20image%2020260724091441.png)
 
-![](attachments/Critical-Resistance-Table.webp)
+
 
 ---
 
