@@ -47,11 +47,10 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 - There's a complete build of me but below is the overview of my gear. This is the cobodex calculator JSON — just copy-paste the whole thing and you can see my complete gear: https://github.com/Hemirich/elsword-guides/blob/main/Elsword/Character%20Build.md.
 - I'm currently using Red Exa ![](attachments/Pasted%20image%2020260724090959.png) so I'm only focusing on Exa.
 - The pants I'm using are ECS, but normally people use Polarize pants.
+- ***Make sure your action speed is 120% on your status board. Flame Lord needs action speed for her to cast faster.***
+- ***Make sure your fire resistance is 500 because one of her passives requires full fire resistance.***
+- ***The red number is critical, blue is maximize***
 
-> ***Make sure your action speed is 120% on your status board. Flame Lord needs action speed for her to cast faster.***
-> ***Make sure your fire resistance is 500 because one of her passives requires full fire resistance.***
-> ***The red number is critical, blue is maximize***
-> 
 ![](attachments/Critical-Resistance-Table.webp)
 ![](attachments/Pasted%20image%2020260724092646.png)
 ![](attachments/Pasted%20image%2020260724092754.png)
