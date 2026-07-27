@@ -1,7 +1,4 @@
 
----
-title: Flame Lord Guide
----
 ![](attachments/Pasted image 20260723200742.png)
 
 # Flame Lord Guide
