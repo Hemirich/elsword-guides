@@ -75,7 +75,7 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 
 Current build shown above — adjust values based on your gear.
 
-Priority: Skill Damage → CDR → Adaptation → Polarize → Boss Damage → Max MP
+### Priority: **Skill Damage → CDR → Adaptation → Polarize → Boss Damage → Max MP**
 
 ---
 
@@ -167,10 +167,7 @@ Select ![](attachments/Pasted%20image%2020260724122713.png) for double traits. !
 Any other skill — select **Damage increased to 144%, Cooldown increased to 120%**.
 
 This is my RAID skill bar:
-
-![](attachments/Pasted%20image%2020260724122940.png)
-
----
+![[Pasted image 20260730222517.png]]
 
 ## DPS Rotation
 --- 
