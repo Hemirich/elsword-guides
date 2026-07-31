@@ -188,7 +188,7 @@ This is my RAID skill bar:
 ---
 
 ### General 
-![[Pasted image 20260730205932.png|465]]
+![](attachments/Pasted%20image%2020260730205932.png)
 
 ![](attachments/Pasted%20image%2020260730200335.png)→![](attachments/Pasted%20image%2020260730202221.png)→  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
 
@@ -204,7 +204,7 @@ This is my RAID skill bar:
 ---
 
 ### Advanced
-![[Pasted image 20260730210034.png]] 
+![](attachments/Pasted%20image%2020260730210034.png) 
 
 
 You are here to advance your FL class. I'll show you everything I know to make you understand how Lee Dong-shin ignores my character. **I could literally fix her with my toe.**
