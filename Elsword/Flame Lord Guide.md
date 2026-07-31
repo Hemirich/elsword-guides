@@ -174,15 +174,15 @@ This is my RAID skill bar:
 
 ## DPS Rotation
 
->**Always** use ![[Pasted image 20260730202926.png]] It gives more hit box for ![](attachments/Pasted%20image%2020260727110154.png) 
+>**Always** use ![](attachments/Pasted%20image%2020260730202926.png) It gives more hit box for ![](attachments/Pasted%20image%2020260727110154.png) 
 
 ### Title 
 
-![[Pasted image 20260730200335.png]]II ![[Pasted image 20260730202052.png]] OR![[Pasted image 20260730202221.png|105]] II ![[Pasted image 20260730202110.png|105]] II
- ![[Pasted image 20260730202120.png]] 
+![](attachments/Pasted%20image%2020260730200335.png)II ![](attachments/Pasted%20image%2020260730202052.png) OR![](attachments/Pasted%20image%2020260730202221.png) II ![](attachments/Pasted%20image%2020260730202110.png) II
+ ![](attachments/Pasted%20image%2020260730202120.png) 
 ### General 
 
-![[Pasted image 20260730200335.png]]->![[Pasted image 20260730202221.png|105]]->  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
+![](attachments/Pasted%20image%2020260730200335.png)->![](attachments/Pasted%20image%2020260730202221.png)->  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
 
 - After that, focus on ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png) ![54](attachments/Pasted%20image%2020260727110215.png) ![54](attachments/Pasted%20image%2020260727110139.png).
 - ![54](attachments/FL.png) is a pretty free class when it comes to skill rotation.
@@ -200,7 +200,7 @@ You are here to advance your FL class. I'll show you everything I know to make y
 1️⃣ **Step 1**
 
 - After you figure out how to press skills and sort of *feel* her, you'll come to a point where sometimes you'll grey bar for 1~2 seconds. 
-- So you actually need ![[Pasted image 20260730203648.png|45]]  to awaken — to trigger the artifact **Yellow effect** (reduce all skill cooldown by 10%) or use the ![[Pasted image 20260730202120.png|60]].
+- So you actually need ![](attachments/Pasted%20image%2020260730203648.png)  to awaken — to trigger the artifact **Yellow effect** (reduce all skill cooldown by 10%) or use the ![](attachments/Pasted%20image%2020260730202120.png).
 ---
 
 2️⃣ **Step 2**
