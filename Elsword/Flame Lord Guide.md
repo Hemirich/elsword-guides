@@ -42,14 +42,19 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 
 ---
 
-## Build
+## Build (Important)
+
+### ***Make sure your action speed is 120% on your status board. Flame Lord needs action speed for her to cast faster.***
+### ***Make sure your fire resistance is 500 because one of her passives requires full fire resistance.***
 
 - There's a complete build of me but below is the overview of my gear. This is the cobodex calculator JSON — just copy-paste the whole thing and you can see my complete gear: https://github.com/Hemirich/elsword-guides/blob/main/Elsword/Character%20Build.md.
 - I'm currently using Red Exa ![](attachments/Pasted%20image%2020260724090959.png) so I'm only focusing on Exa.
 - The pants I'm using are ECS, but normally people use Polarize pants.
-- ***Make sure your action speed is 120% on your status board. Flame Lord needs action speed for her to cast faster.***
-- ***Make sure your fire resistance is 500 because one of her passives requires full fire resistance.***
-- ***The red number is critical, blue is maximize***
+
+--- 
+
+### ***The red number is critical, blue is maximize***
+
 
 ![](attachments/Critical-Resistance-Table.webp)
 ![](attachments/Pasted%20image%2020260724092646.png)
@@ -169,17 +174,24 @@ This is my RAID skill bar:
 
 ## DPS Rotation
 
-### General
+>**Always** use ![[Pasted image 20260730202926.png]] It gives more hit box for ![](attachments/Pasted%20image%2020260727110154.png) 
 
-![](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110215.png) → ![](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
+### Title 
 
-- After that, just press anything that's not on cooldown.
-- Flame Lord is a pretty free class when it comes to skill rotation.
+![[Pasted image 20260730200335.png]]II ![[Pasted image 20260730202052.png]] OR![[Pasted image 20260730202221.png|105]] II ![[Pasted image 20260730202110.png|105]] II
+ ![[Pasted image 20260730202120.png]] 
+### General 
+
+![[Pasted image 20260730200335.png]]->![[Pasted image 20260730202221.png|105]]->  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
+
+- After that, focus on ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png) ![54](attachments/Pasted%20image%2020260727110215.png) ![54](attachments/Pasted%20image%2020260727110139.png).
+- ![54](attachments/FL.png) is a pretty free class when it comes to skill rotation.
 - **In the current patch the most important skill is** ![](attachments/Pasted%20image%2020260727110313.png) **— it can reduce all Annihilation skills by 4 sec.**
-- **You'll always want to use** ![](attachments/Pasted%20image%2020260727110154.png) **whenever it's up, so you need to use** ![](attachments/Pasted%20image%2020260727110313.png) **to reset** ![](attachments/Pasted%20image%2020260727110154.png)
+- **You'll always want to use** ![](attachments/Pasted%20image%2020260727110154.png) **whenever it's up
+- so you need to use  ![](attachments/Pasted%20image%2020260727110313.png) **to reset** ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png)
 
 > I'm not an expert, but after multiple testing I think FL is a fun character to play because every boss skill rotation is different.
-> If you want to be top chart every dungeon, go ![](attachments/Pasted%20image%2020260727111328.png)
+> If you want to be top chart every dungeon, go ![47](attachments/Pasted%20image%2020260727111328.png)
 
 ### Advanced
 
@@ -187,7 +199,9 @@ You are here to advance your FL class. I'll show you everything I know to make y
 
 1️⃣ **Step 1**
 
-After you figure out how to press skills and sort of *feel* her, you'll come to a point where sometimes you'll grey bar for 1~2 seconds. So you actually need onions to awaken — to trigger the artifact yellow effect (reduce all skill cooldown by 10%) or use the Setting Sun title.
+- After you figure out how to press skills and sort of *feel* her, you'll come to a point where sometimes you'll grey bar for 1~2 seconds. 
+- So you actually need ![[Pasted image 20260730203648.png|45]]  to awaken — to trigger the artifact **Yellow effect** (reduce all skill cooldown by 10%) or use the ![[Pasted image 20260730202120.png|60]].
+---
 
 2️⃣ **Step 2**
 
@@ -195,13 +209,16 @@ If you have ![](attachments/Pasted%20image%2020260727125251.png), I'd suggest yo
 
 ![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727125251.png) → ![](attachments/Pasted%20image%2020260727110215.png) / ![](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110238.png) / ![](attachments/Pasted%20image%2020260727110215.png)
 
+---
+
 3️⃣ **Step 3**
 
-I'm a lazy flow user, but if you want to be the best ![](attachments/FL.png) in the server, you need to time your:
-- Flow 15 sec reset
-- Artifact Effect
-- Transcendent
+I'm a lazy flow user, but if you want to be the best ![41](attachments/FL.png) in the server, you need to time your:
+- Flow set 15 sec reset effect
+- Artifact Yellow Effect
+- Transcendent effect
 - ![](attachments/Pasted%20image%2020260727130839.png)
+---
 
 4️⃣ **Step 4**
 
