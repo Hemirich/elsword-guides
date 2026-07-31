@@ -173,16 +173,24 @@ This is my RAID skill bar:
 ---
 
 ## DPS Rotation
+--- 
+
 
 >**Always** use ![](attachments/Pasted%20image%2020260730202926.png) It gives more hit box for ![](attachments/Pasted%20image%2020260727110154.png) 
 
-### Title 
+### Title
+---
+
 
 ![](attachments/Pasted%20image%2020260730200335.png)II ![](attachments/Pasted%20image%2020260730202052.png) OR![](attachments/Pasted%20image%2020260730202221.png) II ![](attachments/Pasted%20image%2020260730202110.png) II
  ![](attachments/Pasted%20image%2020260730202120.png) 
-### General 
 
-![](attachments/Pasted%20image%2020260730200335.png)->![](attachments/Pasted%20image%2020260730202221.png)->  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
+---
+
+### General 
+![[Pasted image 20260730205932.png|465]]
+
+![](attachments/Pasted%20image%2020260730200335.png)→![](attachments/Pasted%20image%2020260730202221.png)→  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
 
 - After that, focus on ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png) ![54](attachments/Pasted%20image%2020260727110215.png) ![54](attachments/Pasted%20image%2020260727110139.png).
 - ![54](attachments/FL.png) is a pretty free class when it comes to skill rotation.
@@ -191,11 +199,15 @@ This is my RAID skill bar:
 - so you need to use  ![](attachments/Pasted%20image%2020260727110313.png) **to reset** ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png)
 
 > I'm not an expert, but after multiple testing I think FL is a fun character to play because every boss skill rotation is different.
-> If you want to be top chart every dungeon, go ![47](attachments/Pasted%20image%2020260727111328.png)
+> If you want to be top chart every dungeon, go ![47](attachments/Pasted%20image%2020260727111328.png) 
+
+---
 
 ### Advanced
+![[Pasted image 20260730210034.png]] 
 
-You are here to advance your FL class. I'll show you everything I know to make you understand how Lee Dong-shin ignores my character. I could literally fix her with my toe.
+
+You are here to advance your FL class. I'll show you everything I know to make you understand how Lee Dong-shin ignores my character. **I could literally fix her with my toe.**
 
 1️⃣ **Step 1**
 
@@ -207,34 +219,40 @@ You are here to advance your FL class. I'll show you everything I know to make y
 
 If you have ![](attachments/Pasted%20image%2020260727125251.png), I'd suggest you do it **AFTER** you press ![](attachments/Pasted%20image%2020260727110154.png). So the rotation would be:
 
-![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727125251.png) → ![](attachments/Pasted%20image%2020260727110215.png) / ![](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110238.png) / ![](attachments/Pasted%20image%2020260727110215.png)
+![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727125251.png) → ![](attachments/Pasted%20image%2020260727110215.png) / ![](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110238.png) / ![](attachments/Pasted%20image%2020260727110215.png)
 
----
+--- 
+
 
 3️⃣ **Step 3**
-
-I'm a lazy flow user, but if you want to be the best ![41](attachments/FL.png) in the server, you need to time your:
-- Flow set 15 sec reset effect
-- Artifact Yellow Effect
-- Transcendent effect
-- ![](attachments/Pasted%20image%2020260727130839.png)
----
-
-4️⃣ **Step 4**
 
 You need to have **2** sets of skill rotation when it comes to big and small bosses. I'll use 21-3 and 21-5 as examples.
 
 > *— Always focus on* ![](attachments/Pasted%20image%2020260727110154.png) *regardless of boss size — it's the highest DPS skill she has.*
-> *—* ![](attachments/Pasted%20image%2020260727110154.png) *depends on the boss posture — you can have 2 or 3 hit boxes. I don't know how it works yet, but it seems like when small bossing the skill requires the boss to be in a certain posture to get 3 hit boxes.*
+> *—* ![](attachments/Pasted%20image%2020260727110154.png) *depends on the boss posture — you can have 3 or 4 hit boxes. I don't know how it works yet, but it seems like when small bossing the skill requires the boss to be in a certain posture to get 4 hit boxes.*
 
-![](attachments/Pasted%20image%2020260727131239.png)
+---
+
+### ![65](attachments/Pasted%20image%2020260727131239.png) 21-3
+
 
 1. When small bossing, ![](attachments/Pasted%20image%2020260727110215.png) and ![](attachments/Pasted%20image%2020260727131533.png) become bad.
 2. You need to focus on ![](attachments/Pasted%20image%2020260727110139.png) and ![](attachments/Pasted%20image%2020260727110238.png).
 3. I'll replace ![](attachments/Pasted%20image%2020260727131716.png) with ![](attachments/Pasted%20image%2020260727131723.png) because ![](attachments/Pasted%20image%2020260727131716.png) takes forever to do damage whereas ![](attachments/Pasted%20image%2020260727131723.png) is instant damage.
+### ![62](attachments/Pasted%20image%2020260727132149.png)21-5  
 
-![](attachments/Pasted%20image%2020260727132149.png)
 
 1. ![](attachments/Pasted%20image%2020260727110238.png) This skill is still good, but when you press it you have to wait for the animation to finish before you can move — whereas ![](attachments/Pasted%20image%2020260727110215.png) is instant cast, so the DPS will be higher when bursting.
 2. When big bossing, ![](attachments/Pasted%20image%2020260727110215.png) and ![](attachments/Pasted%20image%2020260727131533.png) can almost full hit.
-3. Focus on ![](attachments/Pasted%20image%2020260727110154.png) ![](attachments/Pasted%20image%2020260727110215.png) ![](attachments/Pasted%20image%2020260727131533.png) ![](attachments/Pasted%20image%2020260727110238.png)
+3. Focus on ![54](attachments/Pasted%20image%2020260727110154.png)![54](attachments/Pasted%20image%2020260727110313.png) ![](attachments/Pasted%20image%2020260727110215.png) ![](attachments/Pasted%20image%2020260727131533.png) ![](attachments/Pasted%20image%2020260727110238.png)
+
+---
+
+4️⃣ **Step 4 (Still working on it)** 
+I'm a lazy flow user, but if you want to be the best ![41](attachments/FL.png) in the server, you need to time your:
+- Flow set 15 sec reset effect
+- Artifact Yellow Effect
+- Transcendent effect
+- ![](attachments/Pasted%20image%2020260727130839.png) ![](attachments/Pasted%20image%2020260727125251.png)
+
+
