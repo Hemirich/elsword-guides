@@ -217,7 +217,7 @@ You are here to advance your FL class. I'll show you everything I know to make y
 If you have ![](attachments/Pasted%20image%2020260727125251.png), I'd suggest you do it **AFTER** you press ![](attachments/Pasted%20image%2020260727110154.png). So the rotation would be:
 
 ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727125251.png) → ![](attachments/Pasted%20image%2020260727110215.png) / ![](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110313.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![](attachments/Pasted%20image%2020260727110238.png) / ![](attachments/Pasted%20image%2020260727110215.png)
-
+![[SC_L.260729.1_3_ 2026-07-31 11-05-23-873.mp4]]
 --- 
 
 
