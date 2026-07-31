@@ -167,7 +167,7 @@ Select ![](attachments/Pasted%20image%2020260724122713.png) for double traits. !
 Any other skill — select **Damage increased to 144%, Cooldown increased to 120%**.
 
 This is my RAID skill bar:
-![[Pasted image 20260730222517.png]]
+![](attachments/Pasted%20image%2020260730222517.png)
 
 ## DPS Rotation
 --- 
