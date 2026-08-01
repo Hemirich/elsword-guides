@@ -6,27 +6,11 @@
 > Elesis 2nd path · Pyro Knight → Blazing Heart → **Flame Lord** 🔥
 
 ---
-
-## Clearing
-
-![](attachments/Magma.png)
-
-ERP queen. Trait for Megabuster: choose **Gigantic**. One Megabuster = POOF.
-
----
-
-## Mana & Cooldowns
-
-- **35%+ CDR** (unless running Blue Exa; normally Red Exa)
-- ![](attachments/FL.png) Has ![](attachments/Pasted%20image%2020260723214348.png) — recovers **5 MP/sec**
-- Skill MP cost: at least **15%**, ideally **30%+** for smooth gameplay
-
----
-
 ## DPS & Characteristics
 
-Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~ 21-4.
-21-5 is not as good as other characters because she doesn't quite have a HUGE boss skill.
+- Mid bosser — slightly weaker than other top-tier classes. 
+- She's okay at 21-1 ~ 21-4.
+- 21-5 is not as good as other characters because she doesn't quite have a HUGE boss skill.
 
 ### High Entropy (End-Game) Performance
 
@@ -42,10 +26,10 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 
 ---
 
-## Build (Important)
+## Build 
 
-### ***Make sure your action speed is 120% on your status board. Flame Lord needs action speed for her to cast faster.***
-### ***Make sure your fire resistance is 500 because one of her passives requires full fire resistance.***
+### ***❗❗Make sure your action speed is 120% on your status board. Flame Lord needs action speed for her to cast faster.***
+### *❗❗***Make sure your fire resistance is 500 because one of her passives requires full fire resistance.***
 
 - There's a complete build of me but below is the overview of my gear. This is the cobodex calculator JSON — just copy-paste the whole thing and you can see my complete gear: https://github.com/Hemirich/elsword-guides/blob/main/Elsword/Character%20Build.md.
 - I'm currently using Red Exa ![](attachments/Pasted%20image%2020260724090959.png) so I'm only focusing on Exa.
@@ -75,13 +59,13 @@ Mid bosser — slightly weaker than other top-tier classes. She's okay at 21-1 ~
 
 Current build shown above — adjust values based on your gear.
 
-### Priority: **Skill Damage → CDR → Adaptation → Polarize → Boss Damage → Max MP**
+### Priority: **Skill Damage → CDR → Adaptation → Polarize → Boss Damage → Max MP → Skill MP cost**
 
 ---
 
 ## Skill Build
 
-### Passives
+#### Passives
 
 ![](attachments/Pasted%20image%2020260726162341.png)
 - *Magical Attack Power Increase: 15%*
@@ -121,14 +105,8 @@ Certain buff durations will increase when you use Special Active skills.
 - *Magic Damage increased with higher fire resistance: 0~10% (1% increase per 50 Fire Resistance)*
 
 ![](attachments/Pasted%20image%2020260727102502.png)
-- *Explosive Fist: Reduce Knockdown Rate by 1.5 per Flame Hit*
-- *Sword Fire: Affected by Action Speed, Ignores Guard*
-- *Avatar of Fire: Activation Damage Added 184% (Magical)*
 - ***Eternal Fire: Affected by Action Speed, Ignores Guard***
-- *Pillar of Fire: 10% chance to burn the enemy upon successful hit*
-- *Blazing Wing: Initial Hit will reduce the target's MP by 10*
-- *Flame Orb: [Flame Protection] buff applies when using the skill while awakened*
-- *Fire Wall: Each hit reduces the target's MP by 2 and knockdown rate by 3*
+- ***Flame Orb: [Flame Protection] buff applies when using the skill while awakened***
 - ***Ignis Crasher: When hitting enemies while under Gale effect, increase Received Physical/Magical Damage by 12% for 10 sec.***
 
 ![](attachments/Pasted%20image%2020260727102618.png)
@@ -187,35 +165,47 @@ This is my RAID skill bar:
 
 ---
 
-### General 
+## General 
 ![](attachments/Pasted%20image%2020260730205932.png)
+
+
+### ![[Magma.png|45]]Clearing
+
+>ERP queen. Trait for Mega buster: choose **Gigantic**. One Mega buster = POOF.
+>You'll focus on ![](attachments/Pasted%20image%2020260727110154.png)and ![54](attachments/Pasted%20image%2020260727110215.png).
+>Create your own farming rotation. It's fun to study her.
+
+
+![[Pasted image 20260731212650.png]]
+
+### Raid 
 
 ![](attachments/Pasted%20image%2020260730200335.png)→**Awaken** →![](attachments/Pasted%20image%2020260730202221.png)→  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
 
 - After that, focus on ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png) ![54](attachments/Pasted%20image%2020260727110215.png) ![54](attachments/Pasted%20image%2020260727110139.png).
-- ![54](attachments/FL.png) is a pretty free class (Because she has CD problem lol)  when it comes to skill rotation.
+- ![54](attachments/FL.png) is a pretty free class when it comes to skill rotation (Because she has CD problem 😭).
 - **In the current patch the most important skill is** ![](attachments/Pasted%20image%2020260727110313.png) **— it can reduce all Annihilation skills by 4 sec.**
 - **You'll always want to use** ![](attachments/Pasted%20image%2020260727110154.png) **whenever it's up
-- so you need to use  ![](attachments/Pasted%20image%2020260727110313.png) **to reset** ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png)
+- So you need to use  ![](attachments/Pasted%20image%2020260727110313.png) **to reset** ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png)
 
 > I'm not an expert, but after multiple testing I think FL is a fun character to play because every boss skill rotation is different.
 > If you want to be top chart every dungeon, go ![47](attachments/Pasted%20image%2020260727111328.png) 
 
 ---
 
-### Advanced
+## Advanced
 ![](attachments/Pasted%20image%2020260730210034.png) 
 
 
 You are here to advance your FL class. I'll show you everything I know to make you understand how Lee Dong-shin ignores my character. **I could literally fix her with my toe.**
 
-1️⃣ **Step 1**
+🔥 **Step 1**
 
 - After you figure out how to press skills and sort of *feel* her, you'll come to a point where sometimes you'll grey bar for 1~2 seconds. 
 - So you actually need ![](attachments/Pasted%20image%2020260730203648.png)  to awaken — to trigger the artifact **Yellow effect** (reduce all skill cooldown by 10%) or use the ![](attachments/Pasted%20image%2020260730202120.png).
 ---
 
-2️⃣ **Step 2**
+🔥 **Step 2**
 
 If you have ![](attachments/Pasted%20image%2020260727125251.png), I'd suggest you do it **AFTER** you press ![](attachments/Pasted%20image%2020260727110154.png). So the rotation would be:
 
@@ -224,7 +214,7 @@ If you have ![](attachments/Pasted%20image%2020260727125251.png), I'd suggest yo
 --- 
 
 
-3️⃣ **Step 3**
+🔥 **Step 3**
 
 You need to have **2** sets of skill rotation when it comes to big and small bosses. I'll use 21-3 and 21-5 as examples.
 
@@ -248,7 +238,7 @@ You need to have **2** sets of skill rotation when it comes to big and small bos
 
 ---
 
-4️⃣ **Step 4 (Still working on it)** 
+🔥 **Step 4 (Still working on it)** 
 I'm a lazy flow user, but if you want to be the best ![41](attachments/FL.png) in the server, you need to time your:
 - Flow set 15 sec reset effect
 - Artifact Yellow Effect
