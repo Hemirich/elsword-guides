@@ -152,7 +152,8 @@ Buffs that are already applied will have **increased duration**.
 - These two skills grant you the ability to **extend** buff time — always make sure your buff time is up.
 - If you lose the buff time, just re-awaken and you'll be fine.
 - Below are the buff symbol
-- ![[Pasted image 20260731211036.png]]![[Pasted image 20260731211049.png]]
+- ![[Pasted image 20260731211036.png]] Press skill 3 times 
+- ![[Pasted image 20260731211049.png|40]] Attack the enemy
 
 > If your buff time disappears you can only awaken to rebuff. ![](attachments/Pasted%20image%2020260727102346.png) doesn't work if you don't have the buff.
 
@@ -166,7 +167,7 @@ Buffs that are already applied will have **increased duration**.
 - Because of this skill, for pets I'll use ![](attachments/Pasted%20image%2020260727104504.png) because it gives **50 fire resistance**.
 
 Select ![](attachments/Pasted%20image%2020260724122713.png) for double traits. ![](attachments/Pasted%20image%2020260727103035.png) — this one select **Light** for trait.
-Any other skill — select **Damage increased to 144%, Cooldown increased to 120%**.
+Any other skill — select **Damage increased to 144%, Cooldown increased to 120% or Ignore Defense**.
 
 This is my RAID skill bar:
 ![](attachments/Pasted%20image%2020260730222517.png)
