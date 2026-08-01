@@ -130,8 +130,8 @@ Buffs that are already applied will have **increased duration**.
 - These two skills grant you the ability to **extend** buff time — always make sure your buff time is up.
 - If you lose the buff time, just re-awaken and you'll be fine.
 - Below are the buff symbol
-- ![[Pasted image 20260731211036.png]] Press skill 3 times 
-- ![[Pasted image 20260731211049.png|40]] Attack the enemy
+- ![](attachments/Pasted%20image%2020260731211036.png) Press skill 3 times 
+- ![40](attachments/Pasted%20image%2020260731211049.png) Attack the enemy
 
 > If your buff time disappears you can only awaken to rebuff. ![](attachments/Pasted%20image%2020260727102346.png) doesn't work if you don't have the buff.
 
@@ -169,14 +169,14 @@ This is my RAID skill bar:
 ![](attachments/Pasted%20image%2020260730205932.png)
 
 
-### ![[Magma.png|45]]Clearing
+### ![45](attachments/Magma.png)Clearing
 
 >ERP queen. Trait for Mega buster: choose **Gigantic**. One Mega buster = POOF.
 >You'll focus on ![](attachments/Pasted%20image%2020260727110154.png)and ![54](attachments/Pasted%20image%2020260727110215.png).
 >Create your own farming rotation. It's fun to study her.
 
 
-![[Pasted image 20260731212650.png]]
+![](attachments/Pasted%20image%2020260731212650.png)
 
 ### Raid 
 
