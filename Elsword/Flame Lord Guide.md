@@ -151,6 +151,8 @@ Buffs that are already applied will have **increased duration**.
 ![](attachments/Pasted%20image%2020260727102346.png) ![](attachments/Pasted%20image%2020260727102643.png)
 - These two skills grant you the ability to **extend** buff time — always make sure your buff time is up.
 - If you lose the buff time, just re-awaken and you'll be fine.
+- Below are the buff symbol
+- ![[Pasted image 20260731211036.png]]![[Pasted image 20260731211049.png]]
 
 > If your buff time disappears you can only awaken to rebuff. ![](attachments/Pasted%20image%2020260727102346.png) doesn't work if you don't have the buff.
 
@@ -187,10 +189,10 @@ This is my RAID skill bar:
 ### General 
 ![](attachments/Pasted%20image%2020260730205932.png)
 
-![](attachments/Pasted%20image%2020260730200335.png)→![](attachments/Pasted%20image%2020260730202221.png)→  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
+![](attachments/Pasted%20image%2020260730200335.png)→**Awaken** →![](attachments/Pasted%20image%2020260730202221.png)→  ![54](attachments/Pasted%20image%2020260727110113.png) → ![](attachments/Pasted%20image%2020260727110126.png) → ![54](attachments/Pasted%20image%2020260727110139.png) → ![](attachments/Pasted%20image%2020260727110154.png) → ![54](attachments/Pasted%20image%2020260727110215.png) → ![54](attachments/Pasted%20image%2020260727110238.png) → ![](attachments/Pasted%20image%2020260727110313.png)
 
 - After that, focus on ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png) ![54](attachments/Pasted%20image%2020260727110215.png) ![54](attachments/Pasted%20image%2020260727110139.png).
-- ![54](attachments/FL.png) is a pretty free class when it comes to skill rotation.
+- ![54](attachments/FL.png) is a pretty free class (Because she has CD problem lol)  when it comes to skill rotation.
 - **In the current patch the most important skill is** ![](attachments/Pasted%20image%2020260727110313.png) **— it can reduce all Annihilation skills by 4 sec.**
 - **You'll always want to use** ![](attachments/Pasted%20image%2020260727110154.png) **whenever it's up
 - so you need to use  ![](attachments/Pasted%20image%2020260727110313.png) **to reset** ![](attachments/Pasted%20image%2020260727110154.png) ![54](attachments/Pasted%20image%2020260727110238.png)
